@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab7" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="pl.lublin.wsei.java.cwiczenia.test.lab7.HelloApplication" />
+    <module name="lab7" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
